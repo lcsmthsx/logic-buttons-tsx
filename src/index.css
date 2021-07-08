@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+/* NAVBAR */
+.navbar{
+  background-color: #2c2c2c;
+  padding: 1em;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+}
+.navbar span{
+  color: rgb(255, 255, 255);
+  font-size:  2em;
+}
+/* LOGIN */
+
+.background {
+  height: 90vh;
+  background-color: #c2bebe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  box-sizing: border-box;
+  border: 1.5px solid;
+  border-color: #919191;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  padding: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.inputs {
+  margin-bottom: 15px;
+}
